@@ -17,4 +17,4 @@ Share Board Application is a Web Project,in which we built a custom MVC framewor
 
 ## More Stuff
 
-For more projects and coding stuff, follow me @Dileep Kumar(https://github.com/dileepkumar9030) 
+For more projects and coding stuff, follow me @[Dileep Kumar](https://github.com/dileepkumar9030) 
